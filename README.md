@@ -29,8 +29,8 @@ Model: Logistic Regression
            1       0.61      0.77      0.68      3846
 
     accuracy                           0.83     16280
-   macro avg       0.77      0.81      0.78     16280
-weighted avg       0.85      0.83      0.84     16280
+    macro avg       0.77      0.81      0.78     16280
+    weighted avg       0.85      0.83      0.84     16280
 
 
  Model: Random Forest
@@ -40,8 +40,8 @@ weighted avg       0.85      0.83      0.84     16280
            1       0.72      0.61      0.66      3846
 
     accuracy                           0.85     16280
-   macro avg       0.80      0.77      0.78     16280
-weighted avg       0.84      0.85      0.85     16280
+    macro avg       0.80      0.77      0.78     16280
+    weighted avg       0.84      0.85      0.85     16280
 
 
  Model: SVM
@@ -51,8 +51,8 @@ weighted avg       0.84      0.85      0.85     16280
            1       0.76      0.58      0.66      3846
 
     accuracy                           0.86     16280
-   macro avg       0.82      0.76      0.78     16280
-weighted avg       0.85      0.86      0.85     16280
+    macro avg       0.82      0.76      0.78     16280
+    weighted avg       0.85      0.86      0.85     16280
 
 
  Model: KNN
@@ -62,8 +62,8 @@ weighted avg       0.85      0.86      0.85     16280
            1       0.66      0.60      0.63      3846
 
     accuracy                           0.83     16280
-   macro avg       0.77      0.75      0.76     16280
-weighted avg       0.83      0.83      0.83     16280
+    macro avg       0.77      0.75      0.76     16280
+    weighted avg       0.83      0.83      0.83     16280
 
 
  Model: Gradient Boosting
@@ -73,10 +73,9 @@ weighted avg       0.83      0.83      0.83     16280
            1       0.79      0.60      0.69      3846
 
     accuracy                           0.87     16280
-   macro avg       0.84      0.78      0.80     16280
-weighted avg       0.86      0.87      0.86     16280
+     macro avg       0.84      0.78      0.80     16280
+    weighted avg       0.86      0.87      0.86     16280
 
 
-### Models accuracy comparation
-![](<img width="691" height="541" alt="image" src="https://github.com/user-attachments/assets/2a33b532-dba6-4fe1-9171-e6b7f98cc6d8" />
-)
+![Model Accuracy Comparison](https://github.com/user-attachments/assets/2a33b532-dba6-4fe1-9171-e6b7f98cc6d8)
+
