@@ -23,6 +23,7 @@
 
 ### Overall Performance Metrics
 Model: Logistic Regression
+              
               precision    recall  f1-score   support
 
            0       0.92      0.85      0.88     12434
@@ -34,6 +35,7 @@ Model: Logistic Regression
 
 
  Model: Random Forest
+              
               precision    recall  f1-score   support
 
            0       0.88      0.93      0.90     12434
@@ -45,6 +47,7 @@ Model: Logistic Regression
 
 
  Model: SVM
+              
               precision    recall  f1-score   support
 
            0       0.88      0.94      0.91     12434
@@ -56,6 +59,7 @@ Model: Logistic Regression
 
 
  Model: KNN
+              
               precision    recall  f1-score   support
 
            0       0.88      0.91      0.89     12434
@@ -67,6 +71,7 @@ Model: Logistic Regression
 
 
  Model: Gradient Boosting
+              
               precision    recall  f1-score   support
 
            0       0.89      0.95      0.92     12434
